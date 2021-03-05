@@ -25,3 +25,5 @@ Weather Statistics in Oahu, Hawaii for the month of December
 ## Summary
 
 The average temperature for both June and December is in the 70's which would be good weather for a Surf n’ Shake shop to operate year-round successfully. 
+
+An important factor to consider for a successful Surf n’ Shake shop on the island of Oahu, Hawaii is the precipitation. We have analyzed the weather over the months of June and December, but we should also analyze the precipitation over these two months. Since, precipitation can greatly effect a business like this, an analysis of the precipitation in June and December will give an estimate of what the year-round precipitation is like in Oahu, Hawaii. 

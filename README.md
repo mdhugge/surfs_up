@@ -4,11 +4,11 @@ In order to get an investment for a Surf n’ Shake shop in Oahu, Hawaii a inves
 
 ## Results
 
-Weather Statistics in Oahu, Hawaii in the month of June 
+Weather Statistics in Oahu, Hawaii for the month of June 
 
 ![June_Statistics](https://github.com/mdhugge/surfs_up/blob/main/Images/June_Statistics.png)
 
-Weather Statistics in Oahu, Hawaii in the month of December 
+Weather Statistics in Oahu, Hawaii for the month of December 
 
 ![December_Statistics](https://github.com/mdhugge/surfs_up/blob/main/Images/December_Statistics.png)
 
